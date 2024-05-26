@@ -1,1 +1,2 @@
 # LSTM-Predict-Stock-Prices
+This paper explores the application of Long Short-Term Memory (LSTM) networks for stock price prediction using TensorFlow. It presents a machine learning model designed to capture temporal dependencies in historical stock data and forecast future prices. The paper details the model architecture, training process, and evaluation metrics. The results demonstrate the model's ability to learn patterns and predict stock prices with a certain degree of accuracy.
